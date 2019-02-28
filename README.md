@@ -6,8 +6,8 @@
    - The tools used in this project:  [SQLAlchemy](https://www.sqlalchemy.org/), [flask](https://github.com/pallets/flask),[SQLite](https://www.sqlite.org/index.html).
    
 ## Usage
-    - The main.ipynb file to run the queries is hosted on Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yongjinjiang/SQLAlchemy_FLASK_Weather/master?filepath=.%2Fmain.ipynb) and one can run the codes  online. 
-    - The flask api is deployed [here](https://sqlchemeyflaskweather.herokuapp.com/) on Heroku. From the first page, some descriptions for the api are given to help users properly set paths for the Routes and achieve various kinds of weather data. Again, for more information, refer to the original text of the assignment [here](#the-original-text-of-the-homework-assignment).
+   - The main.ipynb file to run the queries is hosted on Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yongjinjiang/SQLAlchemy_FLASK_Weather/master?filepath=.%2Fmain.ipynb) and one can run the codes  online. 
+   - The flask api is deployed [here](https://sqlchemeyflaskweather.herokuapp.com/) on Heroku. From the first page, some descriptions for the api are given to help users properly set paths for the Routes and achieve various kinds of weather data. Again, for more information, refer to the original text of the assignment [here](#the-original-text-of-the-homework-assignment).
 
 
 ## **_The original text of the homework assignment:_** 
