@@ -3,7 +3,8 @@
    - Below an exemplary result, the temperature average and variance for the last year's same dates as one's planned trip_dates from 2017-08-23 to 2017-08-30, is shown:
   <img src="./Images/app.png " width="800" height="400">
    
-   - The tools used in this project:  [SQLAlchemy](https://www.sqlalchemy.org/), [flask](https://github.com/pallets/flask),[SQLite](https://www.sqlite.org/index.html), [Heroku](https://www.heroku.com/) and [Binder](https://mybinder.org/).
+   - The tools used in this project:  [SQLAlchemy](https://www.sqlalchemy.org/), [flask](https://github.com/pallets/flask), 
+   [SQLite](https://www.sqlite.org/index.html), [Heroku](https://www.heroku.com/) and [Binder](https://mybinder.org/).
    
 ## Usage
    - The main.ipynb file to run the queries is hosted on Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yongjinjiang/SQLAlchemy_FLASK_Weather/master?filepath=.%2Fmain.ipynb) and one can run the codes  online. 
