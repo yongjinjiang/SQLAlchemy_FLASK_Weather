@@ -3,12 +3,11 @@
    - A snapshot of the app: 
   <img src="./Images/app.png " width="800" height="400">
    
-   - The app website for this project:[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yongjinjiang/SQLAlchemy_FLASK_Weather/master?filepath=.%2Fmain.ipynb)
-   - The tools used in this project: [plotly.js](https://plot.ly/javascript/), [D3.js](https://d3js.org/), [SQLAlchemy](https://www.sqlalchemy.org/), [flask](https://github.com/pallets/flask),[SQLite](https://www.sqlite.org/index.html).
+   - The tools used in this project:  [SQLAlchemy](https://www.sqlalchemy.org/), [flask](https://github.com/pallets/flask),[SQLite](https://www.sqlite.org/index.html).
    
 ## Usage
-   -  Select a sample from upperleft corner pf the dashboard, the belly-button-biodiversity related data will be visualized in three different, complementary plots: a Pie plot, a scatter plot, and a gauge chart.   
-   - To play the app locally, clone the repo, install the packages, and run "python app.py" in command line.
+    - The main.ipynb file to run the queries is hosted on Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yongjinjiang/SQLAlchemy_FLASK_Weather/master?filepath=.%2Fmain.ipynb) and one can run the codes  online. 
+    - The flask api is deployed [here](https://sqlchemeyflaskweather.herokuapp.com/) on Heroku. From the first page, some descriptions for the api are given to help users properly set paths for the Routes and achieve various kinds of weather data. Again, for more information, refer to the original text of the assignment [here](#the-original-text-of-the-homework-assignment).
 
 
 ## **_The original text of the homework assignment:_** 
