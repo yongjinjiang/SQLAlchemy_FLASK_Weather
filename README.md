@@ -1,3 +1,17 @@
+## This is the homework project for unit 11(Advanced-Data-Storage-and-Retrieval) of [Data Visualization and Analytics](https://bootcamp.umn.edu/data/landing%20full/)
+   - Efficiently get useful information through SQLAlchemy queries from a database containing Hawaii's weather data for the past years. Use flask to design a API to organize these data, which can be helpful for tourists estimate weather condition for their planned trip. For more information of the project, refer to the original text of the assignment [here](#the-original-text-of-the-homework-assignment).
+   - A snapshot of the app: 
+  <img src="./Images/app.png " width="800" height="400">
+   
+   - The app website for this project:[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yongjinjiang/SQLAlchemy_FLASK_Weather/master?filepath=.%2Fmain.ipynb)
+   - The tools used in this project: [plotly.js](https://plot.ly/javascript/), [D3.js](https://d3js.org/), [SQLAlchemy](https://www.sqlalchemy.org/), [flask](https://github.com/pallets/flask),[SQLite](https://www.sqlite.org/index.html).
+   
+## Usage
+   -  Select a sample from upperleft corner pf the dashboard, the belly-button-biodiversity related data will be visualized in three different, complementary plots: a Pie plot, a scatter plot, and a gauge chart.   
+   - To play the app locally, clone the repo, install the packages, and run "python app.py" in command line.
+
+
+## **_The original text of the homework assignment:_** 
 # Surfs Up!
 
 ![surfs-up.jpeg](Images/surfs-up.jpeg)
@@ -88,7 +102,8 @@ To begin, use Python and SQLAlchemy to do basic climate analysis and data explor
 
 ## Step 2 - Climate App
 
-Now that you have completed your initial analysis, design a Flask API based on the queries that you have just developed.
+Now that you have completed your initial analysis, design a Flask 
+based on the queries that you have just developed.
 
 * Use FLASK to create your routes.
 
