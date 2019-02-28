@@ -1,0 +1,6 @@
+sqlalchemy
+flask 
+json
+matplotlib
+pandas 
+numpy
