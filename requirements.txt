@@ -1,5 +1,7 @@
 sqlalchemy
 flask 
+gunicorn
 matplotlib
 pandas 
 numpy
+gunicorn
