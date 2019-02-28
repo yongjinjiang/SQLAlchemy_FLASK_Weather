@@ -1,9 +1,9 @@
 ## This is the homework project for unit 11(Advanced-Data-Storage-and-Retrieval) of [Data Visualization and Analytics](https://bootcamp.umn.edu/data/landing%20full/)
    - Efficiently get useful information through SQLAlchemy queries from a database containing Hawaii's weather data for the past years. Use flask to design a API to organize these data, which can be helpful for tourists estimate weather condition for their planned trip. For more information of the project, refer to the original text of the assignment [here](#the-original-text-of-the-homework-assignment).
-   - A snapshot of the app: 
+   - Below an exemplary result, the temperature average and variance for the last year's same dates as one's planned trip_dates from 2017-08-23 to 2017-08-30, is shown:
   <img src="./Images/app.png " width="800" height="400">
    
-   - The tools used in this project:  [SQLAlchemy](https://www.sqlalchemy.org/), [flask](https://github.com/pallets/flask),[SQLite](https://www.sqlite.org/index.html).
+   - The tools used in this project:  [SQLAlchemy](https://www.sqlalchemy.org/), [flask](https://github.com/pallets/flask),[SQLite](https://www.sqlite.org/index.html), [Heroku](https://www.heroku.com/) and [Binder](https://mybinder.org/).
    
 ## Usage
    - The main.ipynb file to run the queries is hosted on Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yongjinjiang/SQLAlchemy_FLASK_Weather/master?filepath=.%2Fmain.ipynb) and one can run the codes  online. 
